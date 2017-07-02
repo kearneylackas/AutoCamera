@@ -1,6 +1,6 @@
-!/History
-!.PrjPCBStructure
-!.SchDocPreview
-!.PcbDocPreview
-!\__Previews
-
+/Checks
+/Export 3D
+/History
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
