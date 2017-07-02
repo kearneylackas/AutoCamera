@@ -1,7 +1,12 @@
 /Checks
 /Export 3D
 /History
+/Project Logs for AutoCamera
+/Source/__Previews
 *.PrjPCBStructure
 *.SchDocPreview
 *.PcbDocPreview
-*/__Previews
+*.PcbDoc.htm
+
+*.htm
+*.SchDocPreview
