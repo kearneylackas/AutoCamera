@@ -3,10 +3,8 @@
 /History
 /Project Logs for AutoCamera
 /Source/__Previews
+
 *.PrjPCBStructure
 *.SchDocPreview
 *.PcbDocPreview
-*.PcbDoc.htm
-
 *.htm
-*.SchDocPreview
